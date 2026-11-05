@@ -105,6 +105,11 @@ adb shell /data/local/tmp/ghostlock
 http://update-mobile.hihonorcdn.com:18080/TDS/data/files/.../full/update_full_combine.zip
 ```
 
+也可以通过网盘下载  
+```
+https://1815339578.share.123pan.cn/123pan/DlVtVv-ryjwh
+```
+
 CDN 要求 `User-Agent: HwOUCDownloadManager` 且 `Host` 头不含端口号。
 需要中国大陆 IP (海外 IP 返回 403)。
 
