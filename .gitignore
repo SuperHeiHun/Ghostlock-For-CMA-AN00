@@ -1,0 +1,7 @@
+*.img
+*.bin
+*.zip
+*.exe
+build/
+__pycache__/
+*.pyc
